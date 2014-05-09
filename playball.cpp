@@ -1,3 +1,4 @@
+//este programa es la primera version del juego
 #include <iostream>
 #include <stdio.h> 
 #include <cstdlib>
